@@ -25,7 +25,7 @@ namespace PensionDisbursement.Providers
         static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(PensionerProvider));
         public PensionerDetail GetData(string AadhaarNumber)
         {
-            string BaseUrl = "https://localhost:44391/";
+            string BaseUrl = "http://20.62.186.31/";
             using (var client = new HttpClient())
             {    
                 client.BaseAddress = new Uri(BaseUrl);
