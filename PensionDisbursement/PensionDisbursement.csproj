@@ -23,5 +23,11 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="DockerSampleConfig.yaml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 </Project>

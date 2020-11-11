@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj": {}
+    "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj": {}
   },
   "projects": {
-    "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj": {
+    "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj",
+        "projectUniqueName": "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj",
         "projectName": "PensionDisbursement.UnitTest",
-        "projectPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\DIPIKA\\.nuget\\packages\\",
-        "outputPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement.UnitTest\\obj\\",
+        "projectPath": "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement.UnitTest\\PensionDisbursement.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Ritik\\.nuget\\packages\\",
+        "outputPath": "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DIPIKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ritik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -27,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement\\PensionDisbursement.csproj": {
-                "projectPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement\\PensionDisbursement.csproj"
+              "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement\\PensionDisbursement.csproj": {
+                "projectPath": "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement\\PensionDisbursement.csproj"
               }
             }
           }
@@ -77,22 +82,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement\\PensionDisbursement.csproj": {
+    "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement\\PensionDisbursement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement\\PensionDisbursement.csproj",
+        "projectUniqueName": "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement\\PensionDisbursement.csproj",
         "projectName": "PensionDisbursement",
-        "projectPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement\\PensionDisbursement.csproj",
-        "packagesPath": "C:\\Users\\DIPIKA\\.nuget\\packages\\",
-        "outputPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionDisbursement\\obj\\",
+        "projectPath": "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement\\PensionDisbursement.csproj",
+        "packagesPath": "C:\\Users\\Ritik\\.nuget\\packages\\",
+        "outputPath": "E:\\MFPE\\PensionDisbursementAPI\\PensionDisbursement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DIPIKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ritik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -162,7 +172,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
